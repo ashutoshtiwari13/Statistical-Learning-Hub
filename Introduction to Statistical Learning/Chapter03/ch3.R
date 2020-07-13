@@ -1,6 +1,6 @@
 library(MASS)
 library(ISLR)
-### Simple linear regression
+### Simple linear regression -(SLR)
 names(Boston)
 ?Boston
 plot(medv~lstat,Boston)
